@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/assembler8080-parser/.gradle/
+/assembler8080-parser/build/
+/assembler8080-parser/build/classes/java/main/
+/build/
